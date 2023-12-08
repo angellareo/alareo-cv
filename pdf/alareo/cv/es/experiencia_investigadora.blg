@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'experiencia_investigadora.blg'
+[58] biber:322> INFO - === mié dic 14, 2022, 17:21:51
+[117] Utils.pm:309> ERROR - Cannot find 'experiencia_investigadora.bcf'!
+[118] Biber.pm:132> INFO - ERRORS: 1
